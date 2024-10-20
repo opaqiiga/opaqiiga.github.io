@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://opaqiiga.github.io/bqD/sitemap_index.txt.gz
+Sitemap: https://opaqiiga.github.io/cQn/sitemap_index.txt.gz
+Sitemap: https://opaqiiga.github.io/hVM/sitemap_index.txt.gz
+Sitemap: https://opaqiiga.github.io/tWf/sitemap_index.txt.gz
+Sitemap: https://opaqiiga.github.io/uYa/sitemap_index.txt.gz
